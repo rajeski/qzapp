@@ -1,0 +1,47 @@
+[
+    {
+      "label": "How do you say yes in Japanese?",
+      "choices": [
+        {"value": "Hai", "correct": true},
+        {"value": "Iie", "correct": false},
+        {"value": "Pan", "correct": false},
+        {"value": "Ocha", "correct": false}
+      ]
+    },
+    {
+      "label": "How do you say goodbye in Japanese?",
+      "choices": [
+        {"value": "Omizu", "correct": false},
+        {"value": "Sayonara", "correct": true},
+        {"value": "Biru", "correct": false},
+        {"value": "Tamago", "correct": false}
+      ]
+    },
+    {
+      "label": "How do you say no in Japanese?",
+      "choices": [
+        {"value": "Haru", "correct": false},
+        {"value": "Natsu", "correct": false},
+        {"value": "Aki", "correct": false},
+        {"value": "Iie", "correct": true}
+      ]
+    },
+    {
+      "label": "How do you say summer in Japanese?",
+      "choices": [
+        {"value": "Pan", "correct": false},
+        {"value": "Natsu", "correct": true},
+        {"value": "Empitsu", "correct": false},
+        {"value": "Biru", "correct": false}
+      ]
+    },
+    {
+      "label": "How do you say walk in Japanese?",
+      "choices": [
+        {"value": "Denki", "correct": false},
+        {"value": "Tori", "correct": false},
+        {"value": "Sanpo", "correct": true},
+        {"value": "Ohayo", "correct": false}
+      ]
+    }
+  ]
