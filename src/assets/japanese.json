@@ -1,6 +1,6 @@
 [
     {
-      "label": "How do you say yes in Japanese?",
+      "label": "How do you say YES in Japanese?",
       "choices": [
         {"value": "Hai", "correct": true},
         {"value": "Iie", "correct": false},
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "label": "How do you say goodbye in Japanese?",
+      "label": "How do you say GOODBYE in Japanese?",
       "choices": [
         {"value": "Omizu", "correct": false},
         {"value": "Sayonara", "correct": true},
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "label": "How do you say no in Japanese?",
+      "label": "How do you say NO in Japanese?",
       "choices": [
         {"value": "Haru", "correct": false},
         {"value": "Natsu", "correct": false},
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "label": "How do you say summer in Japanese?",
+      "label": "How do you say SUMMER in Japanese?",
       "choices": [
         {"value": "Pan", "correct": false},
         {"value": "Natsu", "correct": true},
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "label": "How do you say walk in Japanese?",
+      "label": "How do you say WALK in Japanese?",
       "choices": [
         {"value": "Denki", "correct": false},
         {"value": "Tori", "correct": false},

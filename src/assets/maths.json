@@ -12,7 +12,7 @@
     "label": "What is 3 - 9?",
     "choices": [
       {"value": "3", "correct": false},
-      {"value": "3.0", "correct": true},
+      {"value": "-6", "correct": true},
       {"value": "-3", "correct": false},
       {"value": "3.14", "correct": false}
     ]
